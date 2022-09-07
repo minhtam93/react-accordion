@@ -1,4 +1,4 @@
-# react-review
+# react-accordion
 
 ## 概要：Description
 
